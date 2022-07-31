@@ -1,7 +1,7 @@
 // Setting items
 const items = {
 	'theme': { localStorage: 'tablerTheme', default: 'light' },
-	'menu-position': { localStorage: 'tablerMenuPosition', default: 'top' },
+	'menu-position': { localStorage: 'tablerMenuPosition', default: 'bottom' },
 	'menu-behavior': { localStorage: 'tablerMenuBehavior', default: 'sticky' },
 	'container-layout': { localStorage: 'tablerContainerLayout', default: 'boxed' }
 }
